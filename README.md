@@ -1,4 +1,4 @@
-### Hi there, I'm Nicola Preda - aka [diskxo][website] 👋
+### Hi there, I'm Nicola Preda - aka [diskxo][telegram] 👋
 
 
 ## I'm a Student who loves programming and watching anime or reading any types of manga.
