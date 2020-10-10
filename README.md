@@ -15,6 +15,7 @@
 [<img align="left" alt="diskxo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="diskxo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="diskxo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="diskxo | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
 
 <br />
 
@@ -50,4 +51,4 @@
 [twitter]: https://twitter.com/diskxo_
 [youtube]: https://www.youtube.com/channel/UC1VPT4qglYpXyj1nt_sL2sA?view_as=subscriber
 [instagram]: https://www.instagram.com/_disconight_/
-
+[telegram]: https://t.me/diskxo/
