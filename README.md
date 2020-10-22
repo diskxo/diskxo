@@ -4,9 +4,9 @@
 ## I'm a Student who loves programming and watching anime or reading any types of manga.
 
 - 🔭 I just launched my first website: [PhoenixPixel.it][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯i am currently collaborating on this team: [github.com/phoenixpixel-it][phoenixpixel]
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects | Learning Flutter for app development
 - ⚡ Fun fact: I love watching anime and reading manga
 
 ### Connect with me:
