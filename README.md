@@ -35,7 +35,7 @@
 
 <br />
 <br />
-[![Spotify](https://Disconight_.vercel.app/api/spotify)](https://open.spotify.com/user/Disconight_)
+[![Spotify](https://novatorem-one-inky.vercel.app/api/spotify)](https://open.spotify.com/user/cityz58kerejprwiv4k3vjtzo)
 
 
 ---
