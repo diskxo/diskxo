@@ -1,6 +1,8 @@
 ### Hi there, I'm Nicola Preda - aka [diskxo][telegram] 👋
 
-
+<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/diskxo_?flag=polyamorous?gradient=namn" width="256" height="64" alt="My pronouns are diskxo_">
+</a>
 ## I'm a Student who loves programming and watching anime or reading any types of manga.
 
 - 🔭 I just launched my first website: [PhoenixPixel.it][website]!
