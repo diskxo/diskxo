@@ -38,6 +38,7 @@
 [![Spotify](https://novatorem-one-inky.vercel.app/api/spotify)](https://open.spotify.com/user/cityz58kerejprwiv4k3vjtzo)
 
 
+[<img src="novatorem-one-inky.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cityz58kerejprwiv4k3vjtzo)
 ---
 
 <details>
