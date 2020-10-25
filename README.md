@@ -35,6 +35,8 @@
 
 <br />
 <br />
+[![Spotify](https://Disconight_.vercel.app/api/spotify)](https://open.spotify.com/user/Disconight_)
+
 
 ---
 
