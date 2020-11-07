@@ -1,4 +1,4 @@
-## try to program things, I love watching anime. admin of phoenixpixel.it & dreamsub.stream
+## trying to program things, I love watching anime. admin of phoenixpixel.it & dreamsub.stream
 
 - 🔭 I just launched my first website: [PhoenixPixel.it][website]!
 - 🌱 I’m currently learning everything 
