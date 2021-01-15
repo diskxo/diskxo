@@ -3,11 +3,17 @@ import sys, os
 def main():
     print("trying to program stuff\n") 
     print(""""
-        - 🌱 I’m currently learning everything\n \ 
-        - 👯i am currently collaborating on this team: [github.com/phoenixpixel-it][phoenixpixel]
-        - 🥅 2020 Goals: Contribute more to Open Source projects | Learning Flutter for app development
+        - 🌱 I’m currently learning everything\n 
+        - 👯i am currently collaborating on this team: github.com/phoenixpixel-it
+        - 🥅 2020 Goals: Contribute more to Open Source projects | Starting 100DaysOfCode
         - ⚡ Fun fact: I love watching anime & listening 80's music""")
-try:
+def exit_code(exit_code=0):
+
+    #Exit code
+    subprocess.Popen("python exitcode.py")
+    sys.exit(exit_code)
+
+exit_code()
 
 ```
 
