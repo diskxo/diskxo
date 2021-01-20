@@ -20,11 +20,11 @@ exit_code()
 ### Connect with me:
 ![Twitter Follow](https://img.shields.io/twitter/follow/diskxo_?label=diskxo_&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/diskxo?logo=diskxo&style=for-the-badge)
-![phoenixpixel]: https://github.com/phoenixpixel-it
-![twitter]: https://twitter.com/diskxo_
-![youtube]: https://www.youtube.com/channel/UC1VPT4qglYpXyj1nt_sL2sA?view_as=subscriber
-![telegram]: https://t.me/diskxo/
-![anilist]: https://anilist.co/user/diskxo/
+[phoenixpixel]: https://github.com/phoenixpixel-it
+[twitter]: https://twitter.com/diskxo_
+[youtube]: https://www.youtube.com/channel/UC1VPT4qglYpXyj1nt_sL2sA?view_as=subscriber
+[telegram]: https://t.me/diskxo/
+[anilist]: https://anilist.co/user/diskxo/
 <br />
 
 ### Languages and Tools:
