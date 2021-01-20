@@ -18,11 +18,13 @@ exit_code()
 ```
 
 ### Connect with me:
-
-[<img align="left" alt="diskxo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="diskxo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="diskxo | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
-
+![Twitter Follow](https://img.shields.io/twitter/follow/diskxo_?label=diskxo_&logo=twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/diskxo?logo=diskxo&style=for-the-badge)
+![phoenixpixel]: https://github.com/phoenixpixel-it
+![twitter]: https://twitter.com/diskxo_
+![youtube]: https://www.youtube.com/channel/UC1VPT4qglYpXyj1nt_sL2sA?view_as=subscriber
+![telegram]: https://t.me/diskxo/
+![anilist]: https://anilist.co/user/diskxo/
 <br />
 
 ### Languages and Tools:
@@ -47,7 +49,4 @@ exit_code()
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=diskxo&show_icons=true&hide_border=true" />
 
-[phoenixpixel]: https://github.com/phoenixpixel-it
-[twitter]: https://twitter.com/diskxo_
-[youtube]: https://www.youtube.com/channel/UC1VPT4qglYpXyj1nt_sL2sA?view_as=subscriber
-[telegram]: https://t.me/diskxo/
+
