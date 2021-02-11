@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/diskxo_" target="blank"><img src="https://img.shields.io/twitter/follow/diskxo_?logo=twitter&style=for-the-badge" alt="diskxo_" /></a> </p>
 
-- 🔭 I’m currently working on [torchflow](https://github.com/phoenixpixel-it/TorchFlow)
+- 🔭 I’m currently working on [torchflow](https://github.com/phoenixpixel-it/TorchFlow), [Vigevano 1 Website](https://github.com/Coding-Bunker/Gruppo-Scout-Vigevano-1) and [MusicForker]("https://www.github.com/diskxo/MusicForker")
 
-- 🌱 I’m currently learning **C family**
+- 🌱 I’m currently learning **C family & Python**
 
 - 👯 I’m looking to collaborate on [phoenixpixel-it](https://github.com/phoenixpixel-it/)
 
