@@ -1,36 +1,87 @@
-<h1 align="center">🚀Profile of diskxo_</h1>
-<h3 align="center">trying to program stuff</h3>
-
-<p align="left"> <a href="https://twitter.com/diskxo_" target="blank"><img src="https://img.shields.io/twitter/follow/diskxo_?logo=twitter&style=for-the-badge" alt="diskxo_" /></a> </p>
-
-- 🔭 I’m currently working on [torchflow](https://github.com/phoenixpixel-it/TorchFlow), [Vigevano 1 Website](https://github.com/Coding-Bunker/Gruppo-Scout-Vigevano-1) and [MusicForker]("https://www.github.com/diskxo/MusicForker")
-
-- 🌱 I’m currently learning **C family & Python**
-
-- 👯 I’m looking to collaborate on [phoenixpixel-it](https://github.com/phoenixpixel-it/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/diskxo?tab=repositories](https://github.com/diskxo?tab=repositories)
-
-- 📫 How to reach me **nicola.preda05@gmail.com**
-
-- ⚡ Fun fact **I love watching anime & listening 80's music**
-
-<h3 align="left"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello"> Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/diskxo_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diskxo_" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nicola-preda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nicola-preda" height="30" width="40" /></a>
-<a href="https://instagram.com/diskxo_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diskxo_" height="30" width="40" /></a>
-<a href="https://discord.gg/#7611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#7611" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-[<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />](https://www.typescriptlang.org) [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=white" />](https://python.org) [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.org) [<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />](https://npmjs.com) [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://docker.com/) [<img alt="Git" src="https://img.shields.io/badge/-Git-f05033?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com) [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/) [<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />](https://archlinux.org/)
-
-
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
+<h1 align="center">Profile of Nicola Preda</h1>
+<h3 align="center">🚀 Novice Full Stack Programmer & Designer</h3>
 <br>
+**What I'm working on : ⌨️**
+
+- ⚡ Search Tool [TorchFlow](https://github.com/phoenixpixel-it/TorchFlow) With C# 
+
+- 🚧 Open source project for no-profit society: [Vigevano 1 Website](https://github.com/Coding-Bunker/Gruppo-Scout-Vigevano-1)
+
+- 🎶 Telegram Bot for Music in Python: [MusicForker](https://www.github.com/diskxo/MusicForker)
+
+- 💡 Script for manage actions when the movement sensor status is changed in JavaScript, [MovementSensor-Manager](https://github.com/diskxo/MovementSensor-Manager)
+
+**What am I learning : 📚**
+
+- 📗 [Golang](https://golang.org/) programming language ([Test-Repository](https://github.com/diskxo/golang-learning))
+
+- 🐍[Python](https://www.python.org/) & [Javascript](https://www.javascript.com/) programming languages
+
+- 📚 Working with a developers team
+
+- 🍭 Design with [Figma](https://figma.com)
+
+
+**How to reach me : 🌎**
+
+[<img align="left" alt="gmail" width="36px" src="icons/gmail.png"/>](mailto:nicola.preda05@gmail.com)
+[<img align="left" alt="twitter" width="36px" src="icons/twitter.png" />](https://twitter.com/diskxo_)
+[<img align="left" alt="discord" width="36px" src="icons/discord.png" />](https://discord.gg/#7611)
+<br /><br /><br />
+**Most used Languages, Frameworks & DataBases: 📟**
+
+[<img align="left" alt="typescript" width="36px" src="icons/typescript.png" />](https://www.typescriptlang.org/)
+
+[<img align="left" alt="javascript" width="36px" src="icons/js.png" />](https://www.javascript.com/)
+
+[<img align="left" alt="python" width="36px" src="icons/python.png" />](https://www.python.org/)
+
+[<img align="left" alt="golang" width="36px" src="icons/go.png" />](https://golang.org/)
+
+[<img align="left" alt="nodejs" width="36px" src="icons/nodejs.png" />](https://nodejs.org/it/)
+
+[<img align="left" alt="html" width="36px" src="icons/html.png" />](https://html.spec.whatwg.org/multipage/)
+
+[<img align="left" alt="css" width="36px" src="icons/css.png" />](https://www.w3.org/Style/CSS/Overview.en.html)
+
+[<img align="left" alt="php" width="36px" src="icons/php.png" />](https://www.php.net/)
+
+[<img align="left" alt="csharp" width="36px" src="icons/csharp.png" />](https://docs.microsoft.com/it-it/dotnet/csharp/tour-of-csharp/)
+
+[<img align="left" alt="bootstrap" width="36px" src="icons/bootstrap.png" />](https://getbootstrap.com/)
+
+[<img align="left" alt="mysql" width="36px" src="icons/mysql.png" />](https://www.mysql.com/it/)
+<br /><br /><br />
+**Most used Tools & IDE : 🔧**
+
+
+[<img align="left" alt="figma" width="36px" src="icons/figma.png" />](https://www.figma.com/)
+
+[<img align="left" alt="git" width="36px" src="icons/git.png" />](https://git-scm.com/)
+
+[<img align="left" alt="docker" width="36px" src="icons/docker.png" />](https://www.docker.com/get-started)
+
+[<img align="left" alt="vscode" width="36px" src="icons/vscode.png" />](https://code.visualstudio.com/)
+
+[<img align="left" alt="visualstudio" width="36px" src="icons/visualstudio.png" />](https://visualstudio.microsoft.com/it/)
+
+[<img align="left" alt="adobexd" width="36px" src="icons/adobexd.png" />](https://www.adobe.com/it/products/xd.html)
+
+[<img align="left" alt="photoshop" width="36px" src="icons/photoshop.png" />](https://www.adobe.com/it/products/photoshop.html)
+
+[<img align="left" alt="notepad++" width="36px" src="icons/notepad++.png" />](https://notepad-plus-plus.org/downloads/)
+<br /><br /><br />
+**My Distro : 💽**
+
+[<img align="left" alt="windows10" width="36px" src="icons/windows10.png" />](https://www.microsoft.com/it-it/windows/get-windows-10)
+
+[<img align="left" alt="raspbian" width="36px" src="icons/raspbian.png" />](https://www.raspbian.org/)
+
+[<img align="left" alt="homeassistant" width="36px" src="icons/homeassistant.png" />](https://www.home-assistant.io/)
+
+[<img align="left" alt="linux" width="36px" src="icons/linux.png" />](https://www.linux.it/)
+
+<br /><br />
 <details>
 <summary>
   Stats :octocat:
