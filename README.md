@@ -1,5 +1,5 @@
 <h1 align="center">Profile of Nicola Preda</h1>
-<h3 align="center">🚀 Novice Full Stack Programmer & Designer</h3>
+<h3 align="center">🚀 Novice Full Stack Developer & Designer</h3>
 
 **What I'm working on : ⌨️**
 
