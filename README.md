@@ -11,6 +11,8 @@
 
 - 💡 Script for manage actions when the movement sensor status is changed in JavaScript, [MovementSensor-Manager](https://github.com/diskxo/MovementSensor-Manager)
 
+- 🏠 Setting up my HomeAssistant server
+
 **What am I learning : 📚**
 
 - 📗 [Golang](https://golang.org/) programming language ([Test-Repository](https://github.com/diskxo/golang-learning))
